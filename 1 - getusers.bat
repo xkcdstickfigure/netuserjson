@@ -1,0 +1,1 @@
+net user /domain > netuseroutput.txt
